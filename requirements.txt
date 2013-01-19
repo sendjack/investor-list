@@ -1,0 +1,6 @@
+# standard
+distribute==0.6.27
+wsgiref==0.1.2
+
+# general
+requests==0.14.2

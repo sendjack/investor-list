@@ -17,6 +17,7 @@ develop-eggs
 .installed.cfg
 lib
 lib64
+venv
 
 # Installer logs
 pip-log.txt
@@ -33,3 +34,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Custom
+*.env*
+*.swp*
+
+# Project
+output
+input
